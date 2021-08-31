@@ -1,5 +1,3 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
-
 ### Hi 👋
 I am a student of systems analysis and development at una, and a technology lover.
 - 💻 I'm specializing in Front-End.
