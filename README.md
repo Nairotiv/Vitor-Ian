@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, sou Vítor Ian</h1>
-<h3 align="center">Sou um desenvolvedor especializado em criar aplicações seguras e responsivas. Também atuo como professor de informática, compartilhando meus conhecimentos e ajudando na formação de novos profissionais na área.</h3>
+<h1 align="center">Hello 👋, I'm Vítor Ian</h1>
+<h3 align="center">I'm a developer specializing in creating secure and responsive applications. I also work as a computer teacher, sharing my knowledge and helping to train new professionals in the area.</h3>
 <br>
 <div align="center" >
   <img  src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/vue-js-icon.png" alt="vue" width="40" height="40"/>
